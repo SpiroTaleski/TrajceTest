@@ -1,0 +1,33 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restntlmaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Partners"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Test"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "domain": {
+                "value": "SD"
+            },
+            "password": {
+                "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                "sym_iv": "9K785II36h71Bps0H8bxHQ==",
+                "sym_key": "jRkPHqUMjNMOVzh+axkWBR4rcR5537dqnYmaP6h+X8GutK5nq9mdBVtLRhr+c1MhEF6zDO5pjGswfM5L84TaMVsPSPbrigW+TP15G+U5EiuMOtRJPF64I9ewERXHvYhD//DtYPIIVWbcpCCfLsnE0cT+PiyqOJ88j528hn0TCsVt8XtsBANEwFjmo3+D4A8DzCMxHYkpG0Swg5NHVQlKCWeD9wBl8rWI+eGreNAbmfzI6ON3n5oYcXB44zL1iP4zAsgJMBc1CLoKm8u0ifhXhY/y5K7sB0UfClhxg/UOxmGIsAF6fjdsW9cyNi2iziq3Rul2YJ2Nu3xyGC2O5mLHCg==",
+                "value": "910M6D2+sY8XykxJszzZVA=="
+            },
+            "username": {
+                "value": "K123"
+            }
+        },
+        "view_serial": 100
+    }
+}
